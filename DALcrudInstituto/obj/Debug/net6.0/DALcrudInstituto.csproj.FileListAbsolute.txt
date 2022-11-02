@@ -1,0 +1,14 @@
+C:\Users\CSI21-Amorlez\Documents\crudInstituto\DALcrudInstituto\bin\Debug\net6.0\DALcrudInstituto.deps.json
+C:\Users\CSI21-Amorlez\Documents\crudInstituto\DALcrudInstituto\bin\Debug\net6.0\DALcrudInstituto.runtimeconfig.json
+C:\Users\CSI21-Amorlez\Documents\crudInstituto\DALcrudInstituto\bin\Debug\net6.0\DALcrudInstituto.dll
+C:\Users\CSI21-Amorlez\Documents\crudInstituto\DALcrudInstituto\bin\Debug\net6.0\DALcrudInstituto.pdb
+C:\Users\CSI21-Amorlez\Documents\crudInstituto\DALcrudInstituto\obj\Debug\net6.0\DALcrudInstituto.csproj.AssemblyReference.cache
+C:\Users\CSI21-Amorlez\Documents\crudInstituto\DALcrudInstituto\obj\Debug\net6.0\DALcrudInstituto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CSI21-Amorlez\Documents\crudInstituto\DALcrudInstituto\obj\Debug\net6.0\DALcrudInstituto.AssemblyInfoInputs.cache
+C:\Users\CSI21-Amorlez\Documents\crudInstituto\DALcrudInstituto\obj\Debug\net6.0\DALcrudInstituto.AssemblyInfo.cs
+C:\Users\CSI21-Amorlez\Documents\crudInstituto\DALcrudInstituto\obj\Debug\net6.0\DALcrudInstituto.csproj.CoreCompileInputs.cache
+C:\Users\CSI21-Amorlez\Documents\crudInstituto\DALcrudInstituto\obj\Debug\net6.0\DALcrudInstituto.dll
+C:\Users\CSI21-Amorlez\Documents\crudInstituto\DALcrudInstituto\obj\Debug\net6.0\refint\DALcrudInstituto.dll
+C:\Users\CSI21-Amorlez\Documents\crudInstituto\DALcrudInstituto\obj\Debug\net6.0\DALcrudInstituto.pdb
+C:\Users\CSI21-Amorlez\Documents\crudInstituto\DALcrudInstituto\obj\Debug\net6.0\DALcrudInstituto.genruntimeconfig.cache
+C:\Users\CSI21-Amorlez\Documents\crudInstituto\DALcrudInstituto\obj\Debug\net6.0\ref\DALcrudInstituto.dll
